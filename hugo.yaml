@@ -44,48 +44,17 @@ imaging:
 languages:
   en:
     languageName: English
+    contentDir: content/en-US
     title: BrightCom Docs
     params:
       description: Documentation for BrightCom Products and Solutions
   # cSpell:disable
   'sv':
     languageName: Svenska
-    contentDir: content/sv
+    contentDir: content/sv-SE
     title: BrightCom Dokumentation
     params:
       description: Dokumentation för BrightCom produkter och lösningar
-      time_format_default: 02.01.2006
-      time_format_blog: 02.01.2006
-  'no':
-    languageName: Norsk
-    contentDir: content/no
-    title: BrightCom Dokumentasjon
-    params:
-      description: Dokumentasjon for BrightCom produkter og løsninger
-      time_format_default: 02.01.2006
-      time_format_blog: 02.01.2006
-  'dk':
-    languageName: Dansk
-    contentDir: content/dk
-    title: BrightCom Dokumentation
-    params:
-      description: Dokumentation for BrightCom produkter og løsninger
-      time_format_default: 02.01.2006
-      time_format_blog: 02.01.2006
-  'fi':
-    languageName: Suomi
-    contentDir: content/fi
-    title: BrightCom Dokumentaatio
-    params:
-      description: Dokumentaatio BrightCom-tuotteista ja -ratkaisuista
-      time_format_default: 02.01.2006
-      time_format_blog: 02.01.2006
-  'fa':
-    languageName: فارسی
-    contentDir: content/fa
-    title: مستندات BrightCom
-    params:
-      description: مستندات برای محصولات و راه حل‌های BrightCom
       time_format_default: 02.01.2006
       time_format_blog: 02.01.2006
   # cSpell:enable
