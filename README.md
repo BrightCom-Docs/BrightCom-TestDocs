@@ -6,7 +6,7 @@ theme component as a hugo module and provides a skeleton documentation structure
 You can clone/copy this project and edit it with your own content, or use it as an example.
 
 In this project, the Docsy theme is pulled in as a Hugo module, together with
-its dependencies: 
+its dependencies:
 
 ```console
 $ hugo mod graph
