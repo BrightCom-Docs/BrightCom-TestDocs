@@ -14,4 +14,3 @@ The published site is available here:  https://brightcom-docs.github.io/BrightCo
 ## Contributing
 
 If you'd like to give us feedback on the documentation, please hop into the [Issues](https://github.com/BrightCom-Docs/BrightCom-PublicDocs/issues) section and let us know.
-
